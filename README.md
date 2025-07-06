@@ -1,16 +1,28 @@
-## Hi there 👋
+# 💫 Hi there, I'm Bilal Furkan Karaca!
 
-<!--
-**BilalFurkaan/BilalFurkaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a backend developer passionate about building robust, scalable, and maintainable applications.  
+Currently, I'm also eager to expand my skills in the **DevOps** field and learn more about cloud-native tools and automation.
 
-Here are some ideas to get you started:
+##💻Technologies I Use
+- **C#**
+- **.NET Core**
+- **SQL**
+- **Docker**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##🎯 My Focus Areas
+- Backend Development
+- Web Development
+- Database Design & Optimization
+- Clean Code & Software Architecture
+- Design Patterns & Software Architectures
+- DevOps Fundamentals (Learning)
+
+I’m particularly interested in **software architecture** and **design patterns**.  
+For me, it's not just about making code work — I strongly value **sustainability, maintainability**, and writing code that stands the test of time.
+
+## 📫 How to reach me
+Connect with me on [LinkedIn Profile](https://www.linkedin.com/in/bilal-furkan-karaca/)
+
+## 🪄 Dev Humor
+```bash
+echo "There is no such thing as bad code, only code that hasn't used enough AI yet." > /dev/null
