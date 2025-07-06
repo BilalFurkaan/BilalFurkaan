@@ -23,6 +23,6 @@ For me, it's not just about making code work — I strongly value **sustainabili
 ## 📫 How to reach me
 Connect with me on [LinkedIn Profile](https://www.linkedin.com/in/bilal-furkan-karaca/)
 
-## 🪄 Dev Humor
+## 🪄
 ```bash
 echo "There is no such thing as bad code, only code that hasn't used enough AI yet." > /dev/null
