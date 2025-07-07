@@ -1,7 +1,7 @@
 # 💫 Hi there, I'm Bilal Furkan Karaca!
 
 I'm a **backend developer** passionate about building robust, scalable, and maintainable applications.  
-Currently, I'm also eager to expand my skills in the **DevOps**field and learn more about cloud-native tools and automation.
+Currently, I'm also eager to expand my skills in the **DevOps** field and learn more about cloud-native tools and automation.
 
 ##💻Technologies I Use
 - **C#**
